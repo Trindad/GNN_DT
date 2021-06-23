@@ -1,4 +1,4 @@
-name: covid-19
+name: gnn-dt
 dependencies:
  - python>=3
  - openjdk=8.0.121
